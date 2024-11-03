@@ -99,21 +99,6 @@ streamlit run app.py
 - Created personalized product recommendations
 - Improved customer engagement metrics
 
-## Future Enhancements
-- Real-time clustering capabilities
-- Additional behavioral features
-- Integration with CRM systems
-- Advanced visualization tools
-- API development for external integration
-
-## Contributing
-We welcome contributions! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request to the main branch
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 For questions or feedback, please:
@@ -121,4 +106,3 @@ For questions or feedback, please:
 - Contact [@iamgopinathbehera](https://github.com/iamgopinathbehera)
 
 ---
-**Note**: This project is continuously evolving. Check back for updates and improvements.
